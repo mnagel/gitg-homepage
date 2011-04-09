@@ -1,0 +1,9 @@
+---
+layout: post
+title: gitg has a new homepage...
+---
+
+h1. {{ page.title }}
+
+You are looking at it...
+

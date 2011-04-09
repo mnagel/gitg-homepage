@@ -1,0 +1,21 @@
+---
+layout: default
+title: gitg Support
+---
+
+h1. {{ page.title }}
+
+We want to encourage you to contact us about gitg. Just pick your favorite way of communication:
+* "Mailing List":http://mail.gnome.org/mailman/listinfo/gitg-list
+* IRC #gitg on freenode
+* Bug Tracker...
+
+
+h1. Contribute
+
+We want to encourage you to contribute to gitg. Things that could be done include:
+* foo
+* bar
+
+You can clone the source code from http://git.gnome.org/browse/gitg/
+If you have interesting patches, send them to: ...

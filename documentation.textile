@@ -1,0 +1,10 @@
+---
+layout: default
+title: gitg Documentation
+---
+
+h1. {{ page.title }}
+
+Here should be an online version of the man page of gitg...
+
+Here should be a manual with pictures, FAQ and Tips&Tricks...

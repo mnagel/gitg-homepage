@@ -1,0 +1,8 @@
+---
+layout: default
+title: gitg Screenshots
+---
+
+h1. {{ page.title }}
+
+Here be a commented gallery of interesting screenshots.

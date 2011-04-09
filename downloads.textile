@@ -1,0 +1,18 @@
+---
+layout: default
+title: gitg Downloads
+---
+
+h1. {{ page.title }}
+
+We suggest you install gitg from your distributions repositories. You can achieve this as follows:
+* distro: howto
+* other distro: howto
+
+You can download the latest binary and source releases here: LINK
+
+Information on how to compile the source can be found: HERE
+
+Link to online Repo browser: ...
+
+Adress to clone from: ...

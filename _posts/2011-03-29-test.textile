@@ -1,0 +1,9 @@
+---
+layout: post
+title: test entry...
+---
+
+h1. {{ page.title }}
+
+This is an entry for testing purposes...
+

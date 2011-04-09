@@ -1,0 +1,9 @@
+Source code can be found in every file/folder except "_site".
+For the meaning of the different folders see: https://github.com/mojombo/jekyll/wiki/usage
+
+The compiled website can be found in "_site".
+
+TODO
+- remove / sort out old stuff from mojombo -- this is a copy&paste fork of his work
+- fix css so bullet points look better
+- improve css so site looks nicer
